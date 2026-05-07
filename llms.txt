@@ -1,0 +1,62 @@
+# San Sebastian
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://san-sebastian.geotecnia.vip/aislacion-sismica/)
+- [Amplificacion Sismica](https://san-sebastian.geotecnia.vip/amplificacion-sismica/)
+- [Anclajes](https://san-sebastian.geotecnia.vip/anclajes/)
+- [Asentamiento Diferencial](https://san-sebastian.geotecnia.vip/asentamiento-diferencial/)
+- [Asentamientos](https://san-sebastian.geotecnia.vip/asentamientos/)
+- [Calicatas Exploratorias](https://san-sebastian.geotecnia.vip/calicatas-exploratorias/)
+- [Capacidad De Carga](https://san-sebastian.geotecnia.vip/capacidad-de-carga/)
+- [Cbr Vial](https://san-sebastian.geotecnia.vip/cbr-vial/)
+- [Cimentaciones](https://san-sebastian.geotecnia.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://san-sebastian.geotecnia.vip/cimentaciones-rellenos/)
+- [Cimentaciones Superficiales](https://san-sebastian.geotecnia.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://san-sebastian.geotecnia.vip/clasificacion-suelos/)
+- [Columnas Grava](https://san-sebastian.geotecnia.vip/columnas-grava/)
+- [Compactacion Dinamica](https://san-sebastian.geotecnia.vip/compactacion-dinamica/)
+- [Compresion Simple](https://san-sebastian.geotecnia.vip/compresion-simple/)
+- [Consolidacion](https://san-sebastian.geotecnia.vip/consolidacion/)
+- [Corte Directo](https://san-sebastian.geotecnia.vip/corte-directo/)
+- [Deep Soil Mixing](https://san-sebastian.geotecnia.vip/deep-soil-mixing/)
+- [Dilatometro](https://san-sebastian.geotecnia.vip/dilatometro/)
+- [Drenaje Geotecnico](https://san-sebastian.geotecnia.vip/drenaje-geotecnico/)
+- [Drenaje Vial](https://san-sebastian.geotecnia.vip/drenaje-vial/)
+- [Drenes Verticales](https://san-sebastian.geotecnia.vip/drenes-verticales/)
+- [Ensayo Cpt](https://san-sebastian.geotecnia.vip/ensayo-cpt/)
+- [Ensayo Spt](https://san-sebastian.geotecnia.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://san-sebastian.geotecnia.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://san-sebastian.geotecnia.vip/ensayos-in-situ/)
+- [Erosion Suelos](https://san-sebastian.geotecnia.vip/erosion-suelos/)
+- [Estabilidad Taludes](https://san-sebastian.geotecnia.vip/estabilidad-taludes/)
+- [Estabilizacion Taludes](https://san-sebastian.geotecnia.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://san-sebastian.geotecnia.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://san-sebastian.geotecnia.vip/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://san-sebastian.geotecnia.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://san-sebastian.geotecnia.vip/excavaciones-subterraneas/)
+- [Exploracion](https://san-sebastian.geotecnia.vip/exploracion/)
+- [Factor Seguridad](https://san-sebastian.geotecnia.vip/factor-seguridad/)
+- [Falla Taludes](https://san-sebastian.geotecnia.vip/falla-taludes/)
+- [Geofisica](https://san-sebastian.geotecnia.vip/geofisica/)
+- [Geomallas](https://san-sebastian.geotecnia.vip/geomallas/)
+- [Geomembranas](https://san-sebastian.geotecnia.vip/geomembranas/)
+- [Georradar Gpr](https://san-sebastian.geotecnia.vip/georradar-gpr/)
+- [Geotecnia Vial](https://san-sebastian.geotecnia.vip/geotecnia-vial/)
+- [Granulometria](https://san-sebastian.geotecnia.vip/granulometria/)
+- [Grouting](https://san-sebastian.geotecnia.vip/grouting/)
+- [Infiltracion](https://san-sebastian.geotecnia.vip/infiltracion/)
+- [Instrumentacion Geotecnica](https://san-sebastian.geotecnia.vip/instrumentacion-geotecnica/)
+- [Jet Grouting](https://san-sebastian.geotecnia.vip/jet-grouting/)
+- [Laboratorio](https://san-sebastian.geotecnia.vip/laboratorio/)
+- [Licuefaccion](https://san-sebastian.geotecnia.vip/licuefaccion/)
+- [Limites Atterberg](https://san-sebastian.geotecnia.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://san-sebastian.geotecnia.vip/losa-de-cimentacion/)
+
+## Contact
+- Website: https://san-sebastian.geotecnia.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
