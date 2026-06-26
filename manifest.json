@@ -1,9 +1,9 @@
 {
-  "name": "San Sebastian",
-  "short_name": "San Sebastia",
+  "name": "Geotecnia",
+  "short_name": "Geotecnia",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#831843",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "es",
-  "orientation": "any",
-  "scope": "/",
-  "description": "Servicios geotécnicos profesionales en San Sebastian, Spain. Estudios de suelo, ensayos y consultoría técnica.",
-  "id": "/san-sebastian-8553"
+  ]
 }
